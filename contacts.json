@@ -16,20 +16,6 @@
 					"email": "jeanderson@email.wm.edu"
 				}
 			]
-		},
-		{
-			"name": "Bob",
-			"affiliation": "Builder",
-			"phoneNumber": [
-				{
-					"name": "Mobile"
-				}
-			],
-			"emailAddress": [
-				{
-					"name": "Email"
-				}
-			]
 		}
 	],
 	"@context": "http://schema.org/"
