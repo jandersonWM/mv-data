@@ -1,0 +1,36 @@
+{
+	"contact": [
+		{
+			"picture": "https://upload.wikimedia.org/wikipedia/commons/5/5e/Kurt_Vonnegut_1972.jpg",
+			"name": "Jack Anderson",
+			"affiliation": "Software Developer",
+			"phoneNumber": [
+				{
+					"name": "Mobile",
+					"telephone": "555-555-5555"
+				}
+			],
+			"emailAddress": [
+				{
+					"name": "Email",
+					"email": "jeanderson@email.wm.edu"
+				}
+			]
+		},
+		{
+			"name": "Bob",
+			"affiliation": "Builder",
+			"phoneNumber": [
+				{
+					"name": "Mobile"
+				}
+			],
+			"emailAddress": [
+				{
+					"name": "Email"
+				}
+			]
+		}
+	],
+	"@context": "http://schema.org/"
+}
