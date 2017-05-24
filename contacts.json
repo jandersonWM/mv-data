@@ -16,19 +16,6 @@
 					"email": "jeanderson@email.wm.edu"
 				}
 			]
-		},
-		{
-			"name": "Margot MARGLE",
-			"phoneNumber": [
-				{
-					"name": "Mobile"
-				}
-			],
-			"emailAddress": [
-				{
-					"name": "Email"
-				}
-			]
 		}
 	],
 	"@context": "http://schema.org/"
