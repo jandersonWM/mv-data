@@ -1,6 +1,20 @@
 {
 	"contact": [
 		{
+			"name": "Bob",
+			"affiliation": "The builder",
+			"phoneNumber": [
+				{
+					"name": "Mobile"
+				}
+			],
+			"emailAddress": [
+				{
+					"name": "Email"
+				}
+			]
+		},
+		{
 			"picture": "https://upload.wikimedia.org/wikipedia/commons/5/5e/Kurt_Vonnegut_1972.jpg",
 			"name": "Jack Anderson",
 			"affiliation": "Software Developer",
